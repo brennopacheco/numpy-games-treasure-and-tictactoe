@@ -24,11 +24,12 @@ O objetivo do projeto é praticar lógica de programação, manipulação de arr
 ```bash
 git clone https://github.com/brennopacheco/numpy-games-treasure-and-tictactoe.git
 cd numpy-games-treasure-and-tictactoe
-
+```
 
 ### 2. Instalar dependências
+```bash
 pip install -r requirements.txt
-
+```
 
 ## 🛠️ Tecnologias Utilizadas
 - Python
