@@ -10,10 +10,10 @@ O objetivo do projeto é praticar lógica de programação, manipulação de arr
 ---
 
 ## 📂 Estrutura do Projeto
-├── .gitignore
-├── requirements.txt
-├── treasure.py # Jogo de Caça ao Tesouro
-├── tictactoe.py # Jogo da Velha
+├── .gitignore  
+├── requirements.txt  
+├── treasure.py # Jogo de Caça ao Tesouro  
+├── tictactoe.py # Jogo da Velha  
 
 
 ---
